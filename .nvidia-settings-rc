@@ -1,0 +1,17 @@
+#
+# /home/patrikebtw/.nvidia-settings-rc
+#
+# Configuration file for nvidia-settings - the NVIDIA Settings utility
+# Generated on Fri Jun 24 12:09:45 2022
+#
+
+# ConfigProperties:
+
+RcFileLocale = C
+DisplayStatusBar = Yes
+SliderTextEntries = Yes
+IncludeDisplayNameInConfigFile = No
+UpdateRulesOnProfileNameChange = Yes
+
+# Attributes:
+
